@@ -1,1 +1,1 @@
-Read me for Python
+This project is about my python Journey
